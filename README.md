@@ -1,0 +1,2 @@
+# anonbot
+Slack anonymous bot
